@@ -1,4 +1,4 @@
-# AWS S3 Event Triggering - piyush
+# AWS S3 Event Triggering - piyush agrawal
 
 **NOTE**: REPLACE YOUR AWS ACCOUNT ID IN THE LAMBDA FUNCTION CODE.
 
